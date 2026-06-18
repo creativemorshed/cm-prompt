@@ -1,0 +1,36 @@
+TITLE:
+Ranking Forecast Framework
+
+CONTENT:
+
+Predict:
+
+- 30 Day Potential
+- 60 Day Potential
+- 90 Day Potential
+
+Factors:
+
+- Competition
+- SEO Strength
+- CTR Potential
+- Conversion Potential
+- Review Strength
+
+Provide confidence level with every forecast.
+
+
+Never evaluate ranking using position alone.
+
+Evaluate:
+
+- Position
+- Impressions
+- CTR
+- Conversion Rate
+- Orders
+- Buyer Quality
+
+A gig with lower rank but higher conversion is stronger than a gig with higher rank but weak conversion.
+
+Always analyze ranking together with business performance.

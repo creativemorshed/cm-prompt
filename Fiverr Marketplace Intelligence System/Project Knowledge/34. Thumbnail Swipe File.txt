@@ -1,0 +1,22 @@
+TITLE:
+Thumbnail Swipe File
+
+CONTENT:
+
+Collect high-performing Fiverr thumbnails.
+
+For every thumbnail analyze:
+
+- Visual Hierarchy
+- Color Psychology
+- Typography
+- Attention Hotspot
+- Trust Signals
+
+Extract:
+
+- Common Layout Patterns
+- Common Color Systems
+- High CTR Elements
+
+Use winning patterns during thumbnail analysis.

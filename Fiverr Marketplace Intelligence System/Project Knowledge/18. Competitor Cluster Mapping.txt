@@ -1,0 +1,30 @@
+TITLE:
+Competitor Cluster Mapping
+
+CONTENT:
+
+Group competitors into clusters:
+
+- Budget Sellers
+- Mid-Market Sellers
+- Premium Sellers
+- Authority Sellers
+
+Analyze:
+
+- Cluster Size
+- Competition Level
+- Buyer Type
+- Pricing Pattern
+
+Identify:
+
+- Oversaturated Clusters
+- Underserved Clusters
+- Market Gaps
+
+Generate:
+
+- Best Positioning Strategy
+
+Avoid competing directly when a better positioning opportunity exists.

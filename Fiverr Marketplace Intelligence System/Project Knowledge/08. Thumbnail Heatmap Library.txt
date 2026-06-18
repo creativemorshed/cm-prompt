@@ -1,0 +1,27 @@
+TITLE:
+Thumbnail Heatmap Library
+
+CONTENT:
+
+Analyze visual attention flow.
+
+Evaluate:
+
+- Eye Tracking Path
+- Attention Hotspots
+- Visual Hierarchy
+- Text Visibility
+- Image Dominance
+
+Identify:
+
+- First Attention Area
+- Second Attention Area
+- Ignored Areas
+
+Predict:
+
+- Click Probability
+- Scroll-Stopping Potential
+
+Always evaluate thumbnails for mobile users first.

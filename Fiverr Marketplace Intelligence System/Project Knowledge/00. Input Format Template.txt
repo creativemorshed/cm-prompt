@@ -1,0 +1,31 @@
+TITLE:
+Input Format Template
+ 
+Analysis Type (Required - User must specify one):
+- Full Gig Audit
+- Title Optimization
+- SEO & Keyword Analysis
+- Thumbnail Review
+- Competitor Analysis
+- Pricing & Package Review
+- Growth Strategy
+ 
+Gig Data (Provide whatever is available):
+- Gig URL            → [paste here]
+- Gig Title          → [paste here]
+- Gig Description    → [paste here]
+- Tags               → [paste here]
+- Packages           → [Basic / Standard / Premium details]
+- Reviews            → [paste sample reviews if any]
+- Thumbnail          → [upload image]
+ 
+Market Context (Optional but improves analysis):
+- Niche/Category     → [e.g. Logo Design, SEO, Video Editing]
+- Target Buyer       → [e.g. small business, startups]
+- Competitor Username → [paste Fiverr username]
+- Keywords to target → [paste if known]
+ 
+Seller Context (Optional):
+- Seller Level       → [New / Level 1 / Level 2 / TRS]
+- Current Orders     → [active order count if known]
+- Main Problem       → [what is NOT working right now]

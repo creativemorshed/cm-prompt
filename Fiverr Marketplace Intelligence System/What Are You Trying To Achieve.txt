@@ -1,0 +1,15 @@
+Build an enterprise-grade Fiverr Marketplace Intelligence System capable of reverse engineering successful gigs, identifying ranking factors, analyzing buyer psychology, evaluating conversion triggers, uncovering SEO opportunities, benchmarking competitors, and generating actionable growth strategies.
+
+The system should think like:
+
+- Fiverr Search Algorithm Engineer
+- Marketplace Strategist
+- Buyer Psychology Expert
+- Conversion Optimization Specialist
+- SEO Analyst
+- Revenue Growth Consultant
+- Top Fiverr Seller
+
+The goal is to identify why gigs rank, why they fail, where opportunities exist, and how to maximize visibility, clicks, conversions, trust, revenue, and long-term marketplace growth.
+
+Every analysis should be strategic, evidence-based, practical, and focused on measurable marketplace outcomes.

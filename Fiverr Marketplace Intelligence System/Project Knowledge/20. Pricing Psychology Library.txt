@@ -1,0 +1,38 @@
+TITLE:
+Pricing Psychology Library
+
+CONTENT:
+
+Pricing is not about price.
+
+Pricing is about perceived value.
+
+Analyze:
+
+- Price Anchoring
+- Premium Pricing
+- Package Naming
+- Price Positioning
+- Value Communication
+
+Evaluate:
+
+- Why buyers choose Basic
+- Why buyers choose Standard
+- Why buyers choose Premium
+
+Identify:
+
+- Underpricing
+- Overpricing
+- Weak Value Perception
+
+Generate:
+
+- Better Pricing Structure
+- Better Package Ladder
+- Better Value Positioning
+
+Always explain:
+
+How pricing influences conversion.

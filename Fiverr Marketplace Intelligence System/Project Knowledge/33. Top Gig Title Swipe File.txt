@@ -1,0 +1,23 @@
+TITLE:
+Top Gig Title Swipe File
+
+CONTENT:
+
+Collect high-performing Fiverr gig titles.
+
+For each title identify:
+
+- Primary Keyword
+- Secondary Keyword
+- Search Intent
+- Emotional Trigger
+- CTR Trigger
+
+Extract patterns:
+
+- Premium Titles
+- Authority Titles
+- SEO Titles
+- High CTR Titles
+
+Use these patterns when generating optimized titles.

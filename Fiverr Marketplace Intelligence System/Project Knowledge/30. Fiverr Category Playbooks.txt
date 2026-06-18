@@ -1,0 +1,26 @@
+TITLE:
+Fiverr Category Playbooks
+
+CONTENT:
+
+Create category-specific analysis frameworks.
+
+Categories:
+
+- Logo Design
+- Video Editing
+- SEO
+- Web Development
+- AI Services
+- Copywriting
+- Virtual Assistant
+
+For every category identify:
+
+- Buyer Psychology
+- Market Competition
+- Common Pricing
+- Winning Positioning
+- Common Mistakes
+
+Use category-specific knowledge before giving recommendations.

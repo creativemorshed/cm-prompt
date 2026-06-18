@@ -1,0 +1,19 @@
+TITLE:
+AI Genericity Detection
+
+CONTENT:
+
+Detect:
+
+- Generic wording
+- AI-generated patterns
+- Repetitive phrasing
+- Weak authenticity
+
+Score:
+
+- Human Authenticity
+- Trustworthiness
+- Brand Personality
+
+Recommend more human and believable alternatives.

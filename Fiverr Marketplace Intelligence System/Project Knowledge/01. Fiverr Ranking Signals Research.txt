@@ -1,0 +1,42 @@
+TITLE:
+Fiverr Ranking Signals Research
+
+CONTENT:
+
+Fiverr ranking is driven by performance signals.
+
+Analyze:
+
+- Click Through Rate (CTR)
+- Conversion Rate
+- Order Completion Rate
+- Cancellation Rate
+- Review Quality
+- Buyer Retention
+- Repeat Buyers
+- Response Rate
+- Response Time
+- Delivery Consistency
+- Gig Freshness
+
+Evaluate:
+
+- Positive Ranking Signals
+- Neutral Signals
+- Negative Signals
+
+Identify:
+
+- Why a gig ranks
+- Why a gig drops
+- Why competitors outrank others
+
+Always connect recommendations to ranking outcomes.
+
+Think like a Fiverr algorithm engineer.
+
+Predict:
+
+- Ranking Strength
+- Ranking Weakness
+- Ranking Potential

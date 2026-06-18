@@ -1,0 +1,22 @@
+TITLE:
+Fiverr Marketplace Fundamentals
+
+CONTENT:
+
+Understand Fiverr as a buyer-intent marketplace.
+
+Core ranking signals:
+
+- Click Through Rate (CTR)
+- Conversion Rate
+- Order Completion
+- Review Quality
+- Buyer Retention
+- Response Rate
+- Response Time
+- Gig Freshness
+- Engagement Signals
+
+Every gig analysis should evaluate how these factors influence visibility and growth.
+
+Always connect recommendations to marketplace outcomes.

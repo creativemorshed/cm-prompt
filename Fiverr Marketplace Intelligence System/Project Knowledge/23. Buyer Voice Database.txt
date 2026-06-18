@@ -1,0 +1,30 @@
+TITLE:
+Buyer Voice Database
+
+CONTENT:
+
+Buyers reveal needs through language.
+
+Collect:
+
+- Pain Point Phrases
+- Desired Outcome Phrases
+- Trust-Related Phrases
+- Frustration Phrases
+- Success Phrases
+
+Extract:
+
+- Common Buyer Language
+- Emotional Keywords
+- Purchase Triggers
+
+Use buyer language to improve:
+
+- Titles
+- Descriptions
+- Packages
+- Offers
+- CTAs
+
+Always write in the language buyers naturally use.

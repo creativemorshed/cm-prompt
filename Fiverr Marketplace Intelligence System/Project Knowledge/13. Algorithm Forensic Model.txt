@@ -1,0 +1,20 @@
+TITLE:
+Algorithm Forensic Model
+
+CONTENT:
+
+Predict whether Fiverr may push or suppress a gig.
+
+Analyze:
+
+- CTR likelihood
+- Conversion probability
+- Engagement quality
+- Buyer satisfaction indicators
+- Competitive strength
+
+Estimate:
+
+- Ranking potential
+- Visibility potential
+- Growth probability

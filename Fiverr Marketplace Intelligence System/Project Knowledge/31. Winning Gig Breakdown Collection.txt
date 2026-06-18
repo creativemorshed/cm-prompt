@@ -1,0 +1,26 @@
+TITLE:
+Winning Gig Breakdown Collection
+
+CONTENT:
+
+Analyze successful Fiverr gigs.
+
+For every winning gig identify:
+
+- Target Market
+- Positioning
+- Title Strategy
+- Thumbnail Strategy
+- SEO Strategy
+- Conversion Strategy
+- Pricing Strategy
+
+Extract:
+
+- Why buyers click
+- Why buyers trust
+- Why buyers purchase
+
+Create a library of successful patterns.
+
+Always compare future gigs against these winning patterns.

@@ -1,0 +1,21 @@
+TITLE:
+Gig Positioning Framework
+
+CONTENT:
+
+Classify gigs as:
+
+- Budget
+- Mid-Market
+- Premium
+- Authority
+
+Evaluate:
+
+- Target audience
+- Offer clarity
+- Market sophistication
+- Unique value proposition
+- Differentiation
+
+Identify positioning conflicts.

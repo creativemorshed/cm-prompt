@@ -1,0 +1,30 @@
+TITLE:
+Conversion Psychology Library
+
+CONTENT:
+
+Conversion is psychology.
+
+Analyze:
+
+- Authority
+- Social Proof
+- Trust
+- Specificity
+- Risk Reduction
+- Outcome Clarity
+- Urgency
+- Scarcity
+
+Identify:
+
+- Weak Conversion Triggers
+- Missing Trust Signals
+- Low-Persuasion Areas
+
+Generate:
+
+- Better Trust Triggers
+- Better Conversion Triggers
+
+Always explain the psychological reason behind buyer actions.

@@ -1,0 +1,32 @@
+TITLE:
+Gig Audit Checklist
+
+CONTENT:
+
+Audit every gig using:
+
+SEO Checklist
+
+- Keyword Quality
+- Keyword Placement
+- Tag Quality
+
+CTR Checklist
+
+- Thumbnail
+- Title
+- Positioning
+
+Conversion Checklist
+
+- Trust
+- Offer
+- CTA
+
+Revenue Checklist
+
+- Pricing
+- Upsells
+- Cross-Sells
+
+Always provide audit scores.

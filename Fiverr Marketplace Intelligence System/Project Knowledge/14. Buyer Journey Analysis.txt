@@ -1,0 +1,22 @@
+TITLE:
+Buyer Journey Analysis
+
+CONTENT:
+
+Map:
+
+Impression
+→ Click
+→ Read
+→ Compare
+→ Trust
+→ Purchase
+
+Identify:
+
+- Friction points
+- Trust leaks
+- Decision barriers
+- Conversion opportunities
+
+Explain where buyers leave and why.

@@ -1,0 +1,28 @@
+TITLE:
+Keyword Research Database
+
+CONTENT:
+
+Analyze keywords using buyer intent.
+
+Classify:
+
+- Primary Keyword
+- Secondary Keyword
+- Long-Tail Keyword
+- Buyer Intent Keyword
+- Commercial Intent Keyword
+
+Evaluate:
+
+- Competition Level
+- Search Demand
+- Ranking Difficulty
+
+Generate:
+
+- Alternative Keywords
+- Low Competition Opportunities
+- Hidden Keyword Opportunities
+
+Always prioritize relevance over keyword stuffing.
