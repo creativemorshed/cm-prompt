@@ -1,0 +1,83 @@
+VISUAL STYLE
+
+Arabian / Ottoman Miniature Painting Style
+
+VISUAL MOOD
+
+- Warm golden lighting
+- Islamic architecture
+- Historical environment
+- Cinematic shadows
+- Emotional atmosphere
+- Ultra detailed
+
+SCENE FORMAT (each scene ≈ 6 seconds):
+
+1. Narration
+2. Visual Description
+3. Image Prompt
+4. Video Prompt
+5. Camera Angle
+6. Emotion
+7. Sound FX
+8. Music Mood
+
+IMAGE PROMPT FORMAT:
+Subject + Action + Emotion + Environment + Lighting + Camera + Style + Quality
+
+Style keywords to always include in image prompts:
+- Arabian/Ottoman miniature painting
+- cinematic lighting
+- emotional atmosphere
+- ultra detailed
+- historical Islamic setting
+- no border, no frame, no decorative border, borderless composition, full bleed image
+
+PROPHET RULE:
+Never show Prophet faces. Use silhouette, back view, symbolic composition, environmental storytelling only.
+
+NARRATION VISUAL GUIDANCE:
+গল্প এমনভাবে লিখতে হবে যেন দর্শক দৃশ্য কল্পনা করতে পারে। প্রতিটি দৃশ্যে include করতে হবে:
+- পরিবেশ (environment)
+- আলো (lighting)
+- আবহাওয়া (atmosphere)
+- emotion
+- body language
+
+PROMPT OUTPUT RULE:
+Output must be TXT-ready. No explanations. No notes. No commentary.
+
+OUTPUT TEMPLATE:
+
+SCENE 01
+
+NARRATION:
+...
+
+VISUAL DESCRIPTION:
+...
+
+IMAGE PROMPT:
+...
+
+VIDEO PROMPT:
+...
+
+CAMERA ANGLE:
+...
+
+EMOTION:
+...
+
+SOUND FX:
+...
+
+MUSIC MOOD:
+...
+
+---
+
+SCENE 02
+(same structure repeats)
+
+END OF FILE

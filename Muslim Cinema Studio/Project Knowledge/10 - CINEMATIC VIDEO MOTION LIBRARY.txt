@@ -1,0 +1,233 @@
+==============================
+CINEMATIC VIDEO MOTION LIBRARY
+==============================
+
+[1] EMOTIONAL PUSH-IN SHOT
+Camera slowly pushes toward the subject. Very subtle breathing motion. Natural eye movement. Soft cinematic depth. Background remains calm. Emotional tension gradually increases. Film-like realism.
+
+Use For:
+- Sad moments
+- Emotional realizations
+- Character thinking
+- Internal conflict
+
+--------------------------------------------------
+
+[2] SUSPENSE REVEAL SHOT
+Camera slowly pans toward the important object. Focus shifts gradually. Reveal happens near the end of the shot. Suspense builds naturally. Smooth cinematic movement.
+
+Use For:
+- Phone messages
+- Secret files
+- Hidden information
+- Plot reveals
+
+--------------------------------------------------
+
+[3] HANDHELD TENSION SHOT
+Subtle handheld camera movement. Slight instability. Small focus breathing. Natural tension. Realistic documentary style.
+
+Use For:
+- Crisis moments
+- Anxiety
+- Confusion
+- Emergency situations
+
+--------------------------------------------------
+
+[4] SHOCK MOMENT SHOT
+Camera quickly pushes forward. Background movement slows slightly. Subject freezes briefly. Dramatic tension. Cinematic realism.
+
+Use For:
+- Bad news
+- Exam cancellation
+- Sudden discoveries
+- Unexpected twists
+
+--------------------------------------------------
+
+[5] DOCUMENTARY OBSERVATION SHOT
+Natural documentary camera movement. Slow observational pan. Authentic human behavior. Calm pacing. Realistic environment motion.
+
+Use For:
+- Daily life
+- Character introduction
+- Family scenes
+- Normal activities
+
+--------------------------------------------------
+
+[6] HOPEFUL RISE SHOT
+Camera slowly rises upward. Light gradually becomes brighter. Atmosphere feels optimistic. Smooth cinematic motion.
+
+Use For:
+- Hope
+- Success
+- Positive change
+- Inspirational moments
+
+--------------------------------------------------
+
+[7] AUTHORITY SHOT
+Slow forward camera movement. Stable composition. Strong confident posture. Subtle background motion. Cinematic authority.
+
+Use For:
+- Leaders
+- Speeches
+- Shadow Hero
+- Government announcements
+
+--------------------------------------------------
+
+[8] TECH UI SHOT
+Digital interface elements animate smoothly. Data flows naturally. Camera glides through interface. Clean futuristic motion.
+
+Use For:
+- Encryption systems
+- Dashboards
+- Security systems
+- Technology scenes
+
+--------------------------------------------------
+
+[9] SURVEILLANCE SHOT
+Surveillance camera perspective. Slow digital zoom. Subtle scan effects. Analytical atmosphere. Realistic monitoring system.
+
+Use For:
+- Tracking
+- Investigation
+- Monitoring systems
+- Detection scenes
+
+--------------------------------------------------
+
+[10] INFOGRAPHIC FLOW SHOT
+Icons and data animate sequentially. Smooth transitions. Clear information flow. Modern motion graphics style.
+
+Use For:
+- Timelines
+- Statistics
+- Process explanation
+- Educational scenes
+
+--------------------------------------------------
+
+[11] COST COMPARISON SHOT
+Split-screen comparison. Elements transform from old system to new system. Smooth visual transition. Clean infographic motion.
+
+Use For:
+- Before vs After
+- Economic comparison
+- Transformation scenes
+
+--------------------------------------------------
+
+[12] NATIONAL SCALE SHOT
+Camera pulls upward from local view to national view. Glowing connection points appear gradually. Epic cinematic scale.
+
+Use For:
+- Maps
+- Country-wide impact
+- Large scale systems
+- Overview scenes
+
+--------------------------------------------------
+
+[13] EMOTIONAL PAYOFF SHOT
+Slow cinematic push-in. Warm sunlight. Emotional facial expressions. Gentle environmental movement. Inspirational atmosphere.
+
+Use For:
+- Family moments
+- Success scenes
+- Happy endings
+- Emotional climax
+
+--------------------------------------------------
+
+[14] ENDING HOOK SHOT
+Camera slowly moves toward a mysterious object or doorway. Shadows deepen gradually. Curiosity increases. Unresolved cinematic ending.
+
+Use For:
+- Cliffhangers
+- Mystery
+- Next episode teasers
+- Suspense endings
+
+--------------------------------------------------
+
+[15] DRONE ESTABLISHING SHOT
+Slow aerial movement over the environment. Wide cinematic perspective. Smooth floating motion. Epic scale and atmosphere.
+
+Use For:
+- City shots
+- Villages
+- Schools
+- Opening scenes
+
+--------------------------------------------------
+
+[16] SLOW ORBIT SHOT
+Camera slowly circles around the subject. Background shifts naturally. Smooth cinematic movement with emotional depth.
+
+Use For:
+- Important characters
+- Emotional moments
+- Hero introductions
+
+--------------------------------------------------
+
+[17] TRACKING SHOT
+Camera follows the subject naturally. Smooth forward movement. Realistic walking motion.
+
+Use For:
+- Walking scenes
+- Journey sequences
+- Character movement
+
+--------------------------------------------------
+
+[18] PARALLAX DEPTH SHOT
+Foreground and background move at different speeds. Strong cinematic depth. Smooth layered motion.
+
+Use For:
+- Still images
+- Environmental scenes
+- Documentary visuals
+
+--------------------------------------------------
+
+[19] TIME-LAPSE SHOT
+Environment changes gradually over time. Light transitions smoothly. Atmospheric movement creates the feeling of passing time.
+
+Use For:
+- Day to night
+- Calendar sequences
+- Long duration events
+
+--------------------------------------------------
+
+[20] SLOW ZOOM-OUT SHOT
+Camera slowly moves away from the subject. Sense of loneliness or larger perspective gradually increases.
+
+Use For:
+- Isolation
+- Reflection
+- Emotional endings
+
+--------------------------------------------------
+
+MASTER VIDEO PROMPT FORMULA
+
+[IMAGE DESCRIPTION]
+
+Camera Movement:
+(Choose one motion from the Motion Library)
+
+Motion Behavior:
+(Subtle environmental movement, realistic human motion, cinematic pacing)
+
+Atmosphere:
+Cinematic realism, natural lighting, immersive storytelling, film quality, smooth motion.
+
+Duration:
+6 seconds.

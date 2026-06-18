@@ -1,0 +1,136 @@
+==============================
+ENVIRONMENT MOTION LIBRARY
+==============================
+
+[1] LIGHT RAIN MOVEMENT
+Gentle falling rain with window reflections.
+
+Use For:
+- Sadness
+- Night scenes
+- Tension
+
+--------------------------------------------------
+
+[2] WIND MOVEMENT
+Curtains and clothes move naturally.
+
+Use For:
+- Emotional scenes
+- Outdoor shots
+
+--------------------------------------------------
+
+[3] LIGHT FLICKER
+Subtle brightness variation.
+
+Use For:
+- Tension
+- Technology scenes
+
+--------------------------------------------------
+
+[4] SCREEN GLOW PULSE
+Monitors and phones emit soft glow changes.
+
+Use For:
+- Computers
+- Phones
+- Surveillance
+
+--------------------------------------------------
+
+[5] PAPER MOVEMENT
+Documents move slightly.
+
+Use For:
+- Desk scenes
+- Offices
+- Exams
+
+--------------------------------------------------
+
+[6] CROWD MOTION
+Background people move naturally.
+
+Use For:
+- Streets
+- Schools
+- Public places
+
+--------------------------------------------------
+
+[7] TRAFFIC MOTION
+Cars and lights move continuously.
+
+Use For:
+- Cities
+- Urban environments
+
+--------------------------------------------------
+
+[8] FLOATING DUST PARTICLES
+Tiny particles move slowly through light.
+
+Use For:
+- Emotional moments
+- Cinematic atmosphere
+
+--------------------------------------------------
+
+[9] DIGITAL UI ANIMATION
+Icons and data move smoothly.
+
+Use For:
+- Dashboards
+- Security systems
+- Infographics
+
+--------------------------------------------------
+
+[10] LIGHT FOG MOVEMENT
+Soft fog drifting naturally.
+
+Use For:
+- Mystery
+- Night scenes
+- Drama
+
+--------------------------------------------------
+
+[11] SUNLIGHT RAYS MOTION
+Soft light beams shifting gradually.
+
+Use For:
+- Hope
+- Success
+- Inspirational scenes
+
+--------------------------------------------------
+
+[12] CITY AMBIENCE MOTION
+Distant lights, moving vehicles, subtle atmosphere.
+
+Use For:
+- Establishing shots
+- Urban storytelling
+
+--------------------------------------------------
+
+[13] CLOCK AND TIME MOTION
+Clock hands, timeline progress, flowing indicators.
+
+Use For:
+- Time passage
+- Deadlines
+- Process explanation
+
+--------------------------------------------------
+
+[14] MAP CONNECTION MOTION
+Glowing lines connecting locations.
+
+Use For:
+- Country scale scenes
+- Networks
+- Statistics

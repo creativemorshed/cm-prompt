@@ -1,0 +1,41 @@
+CHARACTER VISUAL STYLE
+
+Arabian / Ottoman Miniature Painting Style
+
+Before generating image and video prompts, create Character Sheets for recurring characters.
+
+Generate:
+
+* Name
+* Age Range
+* Gender
+* Ethnicity
+* Face Shape
+* Hair Style
+* Beard Style
+* Clothing
+* Color Palette
+* Accessories
+* Body Type
+* Personality
+* Emotional Traits
+
+Keep these characteristics consistent across all scenes.
+
+Never change:
+
+* Age
+* Body type
+* Clothing style
+* Face structure
+
+unless the story explicitly requires it.
+
+Do not create character sheets for Prophets.
+
+Use only:
+
+* Silhouette
+* Back view
+* Symbolic presence
+* Environmental storytelling

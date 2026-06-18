@@ -1,0 +1,117 @@
+==============================
+CINEMATIC LIGHTING LIBRARY
+==============================
+
+[1] WARM SUNRISE LIGHT
+Soft golden light. Hopeful and emotional atmosphere.
+
+Use For:
+- Family scenes
+- Happy moments
+- Success
+
+--------------------------------------------------
+
+[2] DESK LAMP LIGHTING
+Warm localized lighting with dark surroundings.
+
+Use For:
+- Studying
+- Night scenes
+- Emotional moments
+
+--------------------------------------------------
+
+[3] DARK BLUE CINEMATIC LIGHT
+Blue shadows with high contrast.
+
+Use For:
+- Mystery
+- Thriller
+- Tension
+
+--------------------------------------------------
+
+[4] NEON ORANGE ACCENT LIGHT
+Dark environment with orange glow.
+
+Use For:
+- Shadow Hero scenes
+- Technology
+- Urban night
+
+--------------------------------------------------
+
+[5] OVERCAST DAYLIGHT
+Soft natural daylight with muted colors.
+
+Use For:
+- Documentary scenes
+- Realism
+
+--------------------------------------------------
+
+[6] RAINY NIGHT LIGHTING
+Wet reflections with street lights.
+
+Use For:
+- Suspense
+- Sadness
+- Urban atmosphere
+
+--------------------------------------------------
+
+[7] TV SCREEN LIGHTING
+Subject illuminated by television glow.
+
+Use For:
+- News scenes
+- Announcements
+
+--------------------------------------------------
+
+[8] COMPUTER SCREEN LIGHTING
+Face illuminated by monitor light.
+
+Use For:
+- Technology
+- Surveillance
+- Investigations
+
+--------------------------------------------------
+
+[9] FLUORESCENT EXAM HALL LIGHTING
+Neutral white lighting.
+
+Use For:
+- School scenes
+- Government buildings
+
+--------------------------------------------------
+
+[10] HOPEFUL BRIGHT LIGHT
+Gradually increasing brightness.
+
+Use For:
+- Resolution
+- Success
+- Transformation
+
+--------------------------------------------------
+
+[11] RED ALERT LIGHT
+Dark atmosphere with red highlights.
+
+Use For:
+- Danger
+- Detection
+- Warning
+
+--------------------------------------------------
+
+[12] SOFT BACKLIGHT
+Gentle rim light around subject.
+
+Use For:
+- Emotional endings
+- Inspirational scenes

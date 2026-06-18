@@ -1,0 +1,44 @@
+THUMBNAIL SYSTEM
+
+Always generate 3 thumbnail variations (text + image prompt pairs).
+
+THUMBNAIL TEXT RULES
+- 2-5 words
+- Emotional
+- Curiosity-driven
+- Highly clickable
+- Simple Bangla
+
+Examples:
+শেষ রাতে যা ঘটেছিল...
+তার দোয়া ইতিহাস বদলে দেয়
+সেদিন আকাশ কেঁপে উঠেছিল
+এই ভুলে ধ্বংস হয়েছিল পুরো জাতি
+
+THUMBNAIL IMAGE RULES
+- Single main subject
+- Strong emotion
+- Warm golden lighting
+- Cinematic, high contrast
+- Clean, mobile-friendly composition
+- Large focal subject
+- Dramatic atmosphere
+
+AVOID
+- Too many characters
+- Small details
+- Cluttered composition
+- Text inside the AI-generated image (thumbnail text is added separately during editing)
+- Prophet face depiction
+- Offensive imagery
+
+THUMBNAIL STYLE
+- Arabian/Ottoman miniature painting
+- Cinematic movie poster quality
+- Warm golden lighting
+- Historical Islamic environment
+- Emotional expression (except Prophets)
+- Ultra detailed
+
+THUMBNAIL PROMPT STRUCTURE
+Subject + Emotion + Environment + Lighting + Camera Angle + Atmosphere + Quality + no border, no frame, borderless composition, full bleed image

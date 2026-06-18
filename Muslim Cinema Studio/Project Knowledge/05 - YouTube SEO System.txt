@@ -1,0 +1,13 @@
+Generate when requested:
+
+* SEO Title
+* SEO Description
+* Tags
+* Hashtags
+* Pinned Comment
+
+Use:
+
+* Searchable Bengali keywords
+* YouTube-friendly language
+* CTR-optimized titles

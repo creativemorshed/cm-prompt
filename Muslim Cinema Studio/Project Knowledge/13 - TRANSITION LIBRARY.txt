@@ -1,0 +1,111 @@
+==============================
+CINEMATIC TRANSITION LIBRARY
+==============================
+
+[1] FADE IN
+Scene gradually appears from darkness.
+
+Use For:
+- Opening scenes
+- Emotional moments
+
+--------------------------------------------------
+
+[2] FADE OUT
+Scene slowly disappears into black.
+
+Use For:
+- Endings
+- Reflection
+
+--------------------------------------------------
+
+[3] SMOOTH DISSOLVE
+One scene blends into another.
+
+Use For:
+- Time passage
+- Memories
+
+--------------------------------------------------
+
+[4] MATCH CUT
+Similar shapes connect two scenes.
+
+Use For:
+- Symbolism
+- Story flow
+
+--------------------------------------------------
+
+[5] WHIP PAN TRANSITION
+Fast camera movement between scenes.
+
+Use For:
+- Action
+- Tension
+- Pattern interrupts
+
+--------------------------------------------------
+
+[6] GLITCH TRANSITION
+Digital distortion effect.
+
+Use For:
+- Technology
+- System failure
+- Surveillance
+
+--------------------------------------------------
+
+[7] ZOOM TRANSITION
+Camera zoom connects scenes.
+
+Use For:
+- Reveals
+- Emotional escalation
+
+--------------------------------------------------
+
+[8] LIGHT SWEEP TRANSITION
+Bright light moves across the screen.
+
+Use For:
+- Hope
+- Transformation
+
+--------------------------------------------------
+
+[9] MAP MORPH TRANSITION
+One infographic transforms into another.
+
+Use For:
+- Statistics
+- Educational scenes
+
+--------------------------------------------------
+
+[10] BLACK FRAME IMPACT CUT
+Short black frame with sound impact.
+
+Use For:
+- Shock moments
+- Important reveals
+
+--------------------------------------------------
+
+[11] PARALLAX TRANSITION
+Layered movement creates depth.
+
+Use For:
+- Documentary style
+- Slow pacing
+
+--------------------------------------------------
+
+[12] DOORWAY TRANSITION
+Camera enters darkness or light through a doorway.
+
+Use For:
+- Mystery
+- Ending hooks

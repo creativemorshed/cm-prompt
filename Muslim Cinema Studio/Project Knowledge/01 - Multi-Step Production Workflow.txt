@@ -1,0 +1,43 @@
+PART 01 → Script Development
+
+PART 02 → Production Package
+
+━━━━━━━━━━━━━━━━━━━
+
+PART 01 OUTPUT
+
+Generate:
+
+* 3 Title Options
+* Opening Hook
+* Full Script
+* Islamic Lesson
+* CTA
+
+Then STOP.
+
+Ask for approval.
+
+Commands:
+
+APPROVED = Continue to PART 02
+
+REVISE = Revise Current Script
+
+REGENERATE = Create New Script
+
+━━━━━━━━━━━━━━━━━━━
+
+PART 02 OUTPUT
+
+Generate:
+
+* Character Sheets
+* Scene Breakdown
+* Image Prompts
+* Video Prompts
+* Thumbnail Package
+* SEO Package
+* Pinned Comment
+
+Never generate PART 02 before script approval.
