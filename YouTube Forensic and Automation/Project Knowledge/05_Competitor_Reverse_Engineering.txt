@@ -1,0 +1,669 @@
+DOCUMENT TITLE:
+Competitor Reverse Engineering SOP (Professional Edition)
+
+VERSION:
+1.0
+
+PURPOSE:
+
+এই SOP-এর উদ্দেশ্য হলো সফল YouTube Channel-এর Growth Formula, Viral System, Audience Psychology, Retention Mechanics এবং Content Strategy Reverse Engineer করা।
+
+তোমার লক্ষ্য Competitor-কে Copy করা নয়।
+
+তোমার লক্ষ্য:
+
+তাদের Success Formula Extract করা।
+
+--------------------------------------------------
+
+CORE PRINCIPLE
+
+Don't Ask:
+
+"What are they doing?"
+
+Ask:
+
+"Why is it working?"
+
+--------------------------------------------------
+
+MISSION
+
+Identify:
+
+- Growth Formula
+- Viral Formula
+- Thumbnail Formula
+- Title Formula
+- Hook Formula
+- Retention Formula
+- Audience Formula
+- Monetization Formula
+
+--------------------------------------------------
+
+ANALYSIS PHASES
+
+STEP 1
+
+Channel Identity Analysis
+
+STEP 2
+
+Content Analysis
+
+STEP 3
+
+Thumbnail Analysis
+
+STEP 4
+
+Title Analysis
+
+STEP 5
+
+Hook Analysis
+
+STEP 6
+
+Retention Analysis
+
+STEP 7
+
+Audience Analysis
+
+STEP 8
+
+Growth Formula Extraction
+
+--------------------------------------------------
+
+STEP 1:
+CHANNEL IDENTITY ANALYSIS
+
+Analyze:
+
+- Niche
+- Sub-Niche
+- Positioning
+- Brand Identity
+- Target Audience
+- Creator Persona
+
+--------------------------------------------------
+
+QUESTIONS
+
+Why does this channel exist?
+
+Who is it serving?
+
+What problem does it solve?
+
+What emotional need does it satisfy?
+
+--------------------------------------------------
+
+AUDIENCE NEED TYPES
+
+Education
+
+Entertainment
+
+Status
+
+Hope
+
+Justice
+
+Fear
+
+Curiosity
+
+Transformation
+
+--------------------------------------------------
+
+STEP 2:
+CONTENT ANALYSIS
+
+Analyze:
+
+Top 20 Videos
+
+--------------------------------------------------
+
+Identify:
+
+- Viral Videos
+- Evergreen Videos
+- Breakout Videos
+- Underperforming Videos
+
+--------------------------------------------------
+
+QUESTIONS
+
+Which topics repeat?
+
+Which topics fail?
+
+Which topics dominate views?
+
+--------------------------------------------------
+
+CONTENT PATTERN MATRIX
+
+Topic
+
+↓
+
+Emotion
+
+↓
+
+Result
+
+--------------------------------------------------
+
+STEP 3:
+THUMBNAIL ANALYSIS
+
+Analyze:
+
+Color
+
+Emotion
+
+Composition
+
+Contrast
+
+Focus Point
+
+Curiosity
+
+Conflict
+
+--------------------------------------------------
+
+QUESTIONS
+
+Why would someone click?
+
+What emotion is triggered?
+
+What information is hidden?
+
+--------------------------------------------------
+
+THUMBNAIL FORMULA EXTRACTION
+
+Identify:
+
+Most repeated thumbnail style.
+
+--------------------------------------------------
+
+Example
+
+Shock Face
+
++
+
+Large Object
+
++
+
+Mystery Element
+
+=
+
+Thumbnail Formula
+
+--------------------------------------------------
+
+STEP 4:
+TITLE ANALYSIS
+
+Collect:
+
+50-100 Titles
+
+--------------------------------------------------
+
+Categorize:
+
+Curiosity
+
+Fear
+
+Mystery
+
+Conflict
+
+Transformation
+
+Status
+
+--------------------------------------------------
+
+TITLE FORENSIC QUESTIONS
+
+Why does this title work?
+
+What emotion is activated?
+
+What curiosity gap exists?
+
+--------------------------------------------------
+
+TITLE FORMULA EXTRACTION
+
+Example
+
+Hidden Truth
+
++
+
+Mystery
+
++
+
+Outcome
+
+=
+
+Title Formula
+
+--------------------------------------------------
+
+STEP 5:
+HOOK ANALYSIS
+
+Analyze:
+
+First 30 Seconds
+
+--------------------------------------------------
+
+Review:
+
+Opening Line
+
+Opening Visual
+
+Pacing
+
+Music
+
+Curiosity Setup
+
+Conflict Setup
+
+--------------------------------------------------
+
+QUESTIONS
+
+Why didn't viewers leave?
+
+What made them continue watching?
+
+--------------------------------------------------
+
+HOOK FORMULA EXTRACTION
+
+Example
+
+Shocking Statement
+
+↓
+
+Question
+
+↓
+
+Promise
+
+↓
+
+Story Start
+
+--------------------------------------------------
+
+STEP 6:
+RETENTION ANALYSIS
+
+Analyze:
+
+- Scene Changes
+- Open Loops
+- Escalation
+- Cliffhangers
+- Twists
+- Payoffs
+
+--------------------------------------------------
+
+QUESTIONS
+
+Why are viewers staying?
+
+How is curiosity maintained?
+
+How is attention reset?
+
+--------------------------------------------------
+
+RETENTION FORMULA
+
+Hook
+
+↓
+
+Open Loop
+
+↓
+
+Escalation
+
+↓
+
+Twist
+
+↓
+
+Payoff
+
+↓
+
+Ending Hook
+
+--------------------------------------------------
+
+STEP 7:
+AUDIENCE ANALYSIS
+
+Analyze:
+
+Comments
+
+Community Posts
+
+Viewer Reactions
+
+--------------------------------------------------
+
+IDENTIFY
+
+Desires
+
+Fears
+
+Pain Points
+
+Dream Outcomes
+
+Frustrations
+
+--------------------------------------------------
+
+COMMENT INTELLIGENCE
+
+Look For:
+
+Repeated Questions
+
+Repeated Requests
+
+Repeated Complaints
+
+Repeated Emotions
+
+--------------------------------------------------
+
+STEP 8:
+MONETIZATION ANALYSIS
+
+Analyze:
+
+AdSense Potential
+
+Affiliate Opportunities
+
+Sponsors
+
+Products
+
+Courses
+
+Memberships
+
+--------------------------------------------------
+
+QUESTIONS
+
+How does this audience generate revenue?
+
+How scalable is this model?
+
+--------------------------------------------------
+
+STEP 9:
+GROWTH ANALYSIS
+
+Analyze:
+
+Upload Frequency
+
+Video Length
+
+Publishing Pattern
+
+Content Mix
+
+Topic Rotation
+
+--------------------------------------------------
+
+QUESTIONS
+
+How often do they publish?
+
+What format dominates?
+
+What type of content gets promoted?
+
+--------------------------------------------------
+
+STEP 10:
+VIRAL FORMULA EXTRACTION
+
+Extract:
+
+Most Common Topics
+
+Most Common Emotions
+
+Most Common Hooks
+
+Most Common Thumbnail Style
+
+Most Common Story Structure
+
+--------------------------------------------------
+
+VIRAL SYSTEM TEMPLATE
+
+Topic Type:
+
+_________
+
+Thumbnail Pattern:
+
+_________
+
+Title Pattern:
+
+_________
+
+Hook Pattern:
+
+_________
+
+Retention Pattern:
+
+_________
+
+Audience Trigger:
+
+_________
+
+--------------------------------------------------
+
+STEP 11:
+WEAKNESS ANALYSIS
+
+Find:
+
+Topics ignored
+
+Weak thumbnails
+
+Weak hooks
+
+Audience complaints
+
+Missed opportunities
+
+--------------------------------------------------
+
+QUESTIONS
+
+Where are they vulnerable?
+
+What are they missing?
+
+--------------------------------------------------
+
+STEP 12:
+OPPORTUNITY GAP ANALYSIS
+
+Identify:
+
+Low Competition Areas
+
+Audience Demand
+
+Unanswered Questions
+
+Underserved Segments
+
+Emerging Trends
+
+--------------------------------------------------
+
+OPPORTUNITY SCORE
+
+Score 1-10
+
+Demand
+
+Competition
+
+Monetization
+
+Scalability
+
+Retention Potential
+
+--------------------------------------------------
+
+COMPETITOR SCORECARD
+
+Score 1-10
+
+Thumbnail Power
+
+Title Psychology
+
+Hook Strength
+
+Retention Engineering
+
+Storytelling
+
+Branding
+
+Audience Loyalty
+
+SEO
+
+Monetization
+
+Growth Potential
+
+--------------------------------------------------
+
+FINAL OUTPUT FORMAT
+
+CHANNEL OVERVIEW
+
+TARGET AUDIENCE
+
+CONTENT STRATEGY
+
+THUMBNAIL FORMULA
+
+TITLE FORMULA
+
+HOOK FORMULA
+
+RETENTION FORMULA
+
+AUDIENCE PSYCHOLOGY
+
+MONETIZATION MODEL
+
+GROWTH FORMULA
+
+WEAKNESSES
+
+OPPORTUNITY GAPS
+
+ACTIONABLE STRATEGY
+
+--------------------------------------------------
+
+FORENSIC ANALYSIS RULES
+
+Never describe.
+
+Always explain.
+
+For every observation answer:
+
+WHY it works.
+
+HOW it influences viewers.
+
+WHAT psychological trigger is used.
+
+WHETHER it is repeatable.
+
+WHETHER it is scalable.
+
+--------------------------------------------------
+
+FINAL PRINCIPLE
+
+The goal is not to copy competitors.
+
+The goal is to extract the systems behind their success.
+
+Creators can be copied.
+
+Systems can be scaled.
+
+Always reverse engineer systems, not content.

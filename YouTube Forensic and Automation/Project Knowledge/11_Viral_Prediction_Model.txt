@@ -1,0 +1,733 @@
+DOCUMENT TITLE:
+Viral Prediction Model (Professional Edition)
+
+VERSION:
+1.0
+
+PURPOSE:
+
+এই Model-এর উদ্দেশ্য হলো কোনো Video Publish করার আগেই তার Viral Potential, CTR Potential, Retention Potential এবং Growth Potential মূল্যায়ন করা।
+
+Elite Creators guess করে না।
+
+Elite Creators probability calculate করে।
+
+--------------------------------------------------
+
+CORE PRINCIPLE
+
+Virality is not random.
+
+Virality is a combination of predictable factors.
+
+--------------------------------------------------
+
+THE VIRALITY EQUATION
+
+Topic Strength
+
++
+
+Audience Demand
+
++
+
+CTR Potential
+
++
+
+Retention Potential
+
++
+
+Emotional Intensity
+
++
+
+Shareability
+
+=
+
+Viral Probability
+
+--------------------------------------------------
+
+THE 10 VIRAL FACTORS
+
+1. Topic Strength
+
+2. Audience Demand
+
+3. Curiosity Level
+
+4. Emotional Intensity
+
+5. CTR Potential
+
+6. Retention Potential
+
+7. Shareability
+
+8. Timing
+
+9. Scalability
+
+10. Competition Level
+
+--------------------------------------------------
+
+FACTOR #1
+
+TOPIC STRENGTH
+
+Question:
+
+Is the topic naturally interesting?
+
+--------------------------------------------------
+
+Strong Topics
+
+Mysteries
+
+Scandals
+
+Crime
+
+Hidden Truths
+
+Money
+
+Power
+
+History
+
+Technology
+
+Transformation
+
+--------------------------------------------------
+
+Weak Topics
+
+Routine Updates
+
+Generic Advice
+
+Low Emotion Topics
+
+--------------------------------------------------
+
+Score:
+
+1-10
+
+--------------------------------------------------
+
+FACTOR #2
+
+AUDIENCE DEMAND
+
+Question:
+
+Do people actively want this?
+
+--------------------------------------------------
+
+Indicators:
+
+Searches
+
+Comments
+
+Trends
+
+Community Requests
+
+--------------------------------------------------
+
+Score:
+
+1-10
+
+--------------------------------------------------
+
+FACTOR #3
+
+CURIOSITY LEVEL
+
+Question:
+
+How powerful is the curiosity gap?
+
+--------------------------------------------------
+
+Examples
+
+Weak:
+
+"History of Egypt"
+
+Strong:
+
+"The Secret Egypt Hid For Thousands Of Years"
+
+--------------------------------------------------
+
+Score:
+
+1-10
+
+--------------------------------------------------
+
+FACTOR #4
+
+EMOTIONAL INTENSITY
+
+Question:
+
+What emotion is triggered?
+
+--------------------------------------------------
+
+Weak Emotions
+
+Interest
+
+Information
+
+--------------------------------------------------
+
+Strong Emotions
+
+Fear
+
+Shock
+
+Hope
+
+Justice
+
+Suspense
+
+Awe
+
+--------------------------------------------------
+
+Score:
+
+1-10
+
+--------------------------------------------------
+
+FACTOR #5
+
+CTR POTENTIAL
+
+Question:
+
+Will people click?
+
+--------------------------------------------------
+
+Evaluate:
+
+Thumbnail
+
+Title
+
+Topic
+
+Packaging
+
+--------------------------------------------------
+
+Score:
+
+1-10
+
+--------------------------------------------------
+
+FACTOR #6
+
+RETENTION POTENTIAL
+
+Question:
+
+Can the story hold attention?
+
+--------------------------------------------------
+
+Evaluate:
+
+Conflict
+
+Mystery
+
+Escalation
+
+Twists
+
+Payoffs
+
+--------------------------------------------------
+
+Score:
+
+1-10
+
+--------------------------------------------------
+
+FACTOR #7
+
+SHAREABILITY
+
+Question:
+
+Will people share this?
+
+--------------------------------------------------
+
+Share Triggers
+
+Shock
+
+Value
+
+Identity
+
+Status
+
+Emotion
+
+--------------------------------------------------
+
+Score:
+
+1-10
+
+--------------------------------------------------
+
+FACTOR #8
+
+TIMING
+
+Question:
+
+Why now?
+
+--------------------------------------------------
+
+Strong Timing
+
+Emerging Trend
+
+Breaking News
+
+Growing Interest
+
+Seasonal Event
+
+--------------------------------------------------
+
+Score:
+
+1-10
+
+--------------------------------------------------
+
+FACTOR #9
+
+SCALABILITY
+
+Question:
+
+Can this become a content series?
+
+--------------------------------------------------
+
+Strong:
+
+Unlimited topic expansion.
+
+--------------------------------------------------
+
+Weak:
+
+One-off topic.
+
+--------------------------------------------------
+
+Score:
+
+1-10
+
+--------------------------------------------------
+
+FACTOR #10
+
+COMPETITION LEVEL
+
+Question:
+
+How crowded is the market?
+
+--------------------------------------------------
+
+High Competition
+
+↓
+
+Lower Opportunity
+
+--------------------------------------------------
+
+Low Competition
+
+↓
+
+Higher Opportunity
+
+--------------------------------------------------
+
+Score:
+
+1-10
+
+--------------------------------------------------
+
+VIRAL SCORE FORMULA
+
+Topic Strength
+
++
+
+Audience Demand
+
++
+
+Curiosity
+
++
+
+Emotion
+
++
+
+CTR
+
++
+
+Retention
+
++
+
+Shareability
+
++
+
+Timing
+
++
+
+Scalability
+
++
+
+Competition
+
+--------------------------------------------------
+
+Maximum Score:
+
+100
+
+--------------------------------------------------
+
+VIRAL SCORE INTERPRETATION
+
+90-100
+
+Elite Viral Potential
+
+--------------------------------------------------
+
+80-89
+
+Very High Viral Potential
+
+--------------------------------------------------
+
+70-79
+
+Strong Viral Potential
+
+--------------------------------------------------
+
+60-69
+
+Moderate Potential
+
+--------------------------------------------------
+
+50-59
+
+Weak Potential
+
+--------------------------------------------------
+
+Below 50
+
+Avoid
+
+--------------------------------------------------
+
+CTR PREDICTION MODEL
+
+Analyze:
+
+Title
+
+Thumbnail
+
+Topic
+
+--------------------------------------------------
+
+Score:
+
+1-10
+
+--------------------------------------------------
+
+9-10
+
+Exceptional CTR
+
+--------------------------------------------------
+
+7-8
+
+Strong CTR
+
+--------------------------------------------------
+
+5-6
+
+Average CTR
+
+--------------------------------------------------
+
+Below 5
+
+Weak CTR
+
+--------------------------------------------------
+
+RETENTION PREDICTION MODEL
+
+Analyze:
+
+Hook
+
+Story
+
+Conflict
+
+Twists
+
+Escalation
+
+Payoff
+
+--------------------------------------------------
+
+9-10
+
+Exceptional Retention
+
+--------------------------------------------------
+
+7-8
+
+Strong Retention
+
+--------------------------------------------------
+
+5-6
+
+Average Retention
+
+--------------------------------------------------
+
+Below 5
+
+Weak Retention
+
+--------------------------------------------------
+
+SHAREABILITY PREDICTION MODEL
+
+Analyze:
+
+Emotion
+
+Identity
+
+Novelty
+
+Conversation Potential
+
+--------------------------------------------------
+
+Question:
+
+Will viewers tell others?
+
+--------------------------------------------------
+
+THE VIRALITY MULTIPLIER
+
+Virality increases when:
+
+Strong Topic
+
++
+
+Strong Packaging
+
++
+
+Strong Retention
+
+--------------------------------------------------
+
+Weakness in any area reduces growth.
+
+--------------------------------------------------
+
+VIRAL RISK DETECTION
+
+Common Risks:
+
+Weak Topic
+
+Weak Hook
+
+Weak Thumbnail
+
+No Curiosity
+
+No Emotion
+
+No Conflict
+
+No Share Trigger
+
+--------------------------------------------------
+
+RISK SCORE
+
+Low Risk
+
+Moderate Risk
+
+High Risk
+
+--------------------------------------------------
+
+PRE-PUBLISH ANALYSIS CHECKLIST
+
+Before Publishing:
+
+1. Is the topic demanded?
+
+2. Is curiosity strong?
+
+3. Is emotion strong?
+
+4. Is CTR likely high?
+
+5. Is retention likely high?
+
+6. Is sharing likely?
+
+7. Is timing favorable?
+
+8. Is competition manageable?
+
+--------------------------------------------------
+
+VIRAL OPPORTUNITY MATRIX
+
+High Demand
+
++
+
+High Curiosity
+
++
+
+High Emotion
+
+↓
+
+Elite Opportunity
+
+--------------------------------------------------
+
+High Demand
+
++
+
+Low Curiosity
+
+↓
+
+Packaging Problem
+
+--------------------------------------------------
+
+Low Demand
+
++
+
+High Curiosity
+
+↓
+
+Limited Opportunity
+
+--------------------------------------------------
+
+FORENSIC ANALYSIS RULES
+
+Never say:
+
+"This video could go viral."
+
+Instead explain:
+
+WHY.
+
+WHAT factors support virality.
+
+WHAT factors reduce virality.
+
+WHAT improvements increase probability.
+
+--------------------------------------------------
+
+FINAL PRINCIPLE
+
+No model can predict virality perfectly.
+
+But elite creators dramatically improve odds.
+
+The goal is not certainty.
+
+The goal is probability.
+
+The creator who consistently improves probability
+
+wins over time.

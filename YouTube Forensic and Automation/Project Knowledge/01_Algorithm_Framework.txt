@@ -1,0 +1,515 @@
+DOCUMENT TITLE:
+YouTube Algorithm Framework (Professional Edition)
+
+VERSION:
+1.0
+
+PURPOSE:
+
+এই Framework-এর উদ্দেশ্য হলো YouTube Algorithm কীভাবে Content Evaluate করে, কেন কিছু ভিডিও Viral হয়, কেন কিছু ভিডিও Fail করে এবং কীভাবে Channel Growth Predict করা যায় তা বোঝা।
+
+--------------------------------------------------
+
+CORE PRINCIPLE
+
+YouTube-এর কাজ Video Promote করা নয়।
+
+YouTube-এর কাজ:
+
+"সঠিক Viewer-এর সামনে সঠিক Content দেখানো।"
+
+Algorithm সবসময় এই প্রশ্নগুলোর উত্তর খোঁজে:
+
+1. Viewer কি Click করবে?
+2. Viewer কি Watch করবে?
+3. Viewer কি Continue Watching করবে?
+4. Viewer কি আরও Video দেখবে?
+5. Viewer কি Future-এ আবার ফিরে আসবে?
+
+--------------------------------------------------
+
+ALGORITHM OBJECTIVES
+
+YouTube Optimize করে:
+
+- Viewer Satisfaction
+- Watch Time
+- Session Duration
+- Returning Viewers
+- Long-Term Engagement
+
+YouTube Optimize করে না:
+
+- Subscriber Count
+- Video Quality
+- Editing Cost
+- Production Cost
+
+--------------------------------------------------
+
+THE 7 CORE SIGNALS
+
+1. CTR
+2. Average View Duration
+3. Relative Retention
+4. Watch Time
+5. Session Watch Time
+6. Viewer Satisfaction
+7. Returning Viewers
+
+--------------------------------------------------
+
+SECTION 1:
+CTR FRAMEWORK
+
+CTR = Click Through Rate
+
+Formula:
+
+CTR = Clicks / Impressions × 100
+
+--------------------------------------------------
+
+CTR BENCHMARK
+
+Low CTR:
+0% - 3%
+
+Average CTR:
+4% - 6%
+
+Good CTR:
+6% - 10%
+
+Excellent CTR:
+10%+
+
+--------------------------------------------------
+
+CTR DRIVERS
+
+Main Drivers:
+
+1. Thumbnail
+2. Title
+3. Topic
+4. Audience Match
+
+--------------------------------------------------
+
+CTR PSYCHOLOGY
+
+People Click Because Of:
+
+- Curiosity
+- Fear
+- Shock
+- Mystery
+- Transformation
+- Conflict
+- Novelty
+- Urgency
+
+--------------------------------------------------
+
+FORENSIC QUESTIONS
+
+Why did people click?
+
+Was it:
+
+- Thumbnail?
+- Title?
+- Topic?
+- Curiosity Gap?
+- Emotional Trigger?
+
+--------------------------------------------------
+
+SECTION 2:
+AVERAGE VIEW DURATION
+
+AVD = Average View Duration
+
+Measures:
+
+How long viewers watch.
+
+--------------------------------------------------
+
+GOOD AVD
+
+8 Minute Video
+
+Poor:
+Below 2 min
+
+Average:
+3-4 min
+
+Good:
+5-6 min
+
+Excellent:
+6+ min
+
+--------------------------------------------------
+
+SECTION 3:
+RETENTION FRAMEWORK
+
+Retention measures:
+
+Percentage of video watched.
+
+--------------------------------------------------
+
+STRONG RETENTION PATTERN
+
+100%
+
+↓
+
+80%
+
+↓
+
+70%
+
+↓
+
+60%
+
+↓
+
+50%
+
+↓
+
+40%
+
+Smooth decline.
+
+--------------------------------------------------
+
+WEAK RETENTION PATTERN
+
+100%
+
+↓
+
+50%
+
+↓
+
+25%
+
+↓
+
+15%
+
+Massive early drop.
+
+--------------------------------------------------
+
+RETENTION KILLERS
+
+- Weak Hook
+- Long Intro
+- Repetition
+- Slow Pacing
+- Predictability
+- No Conflict
+
+--------------------------------------------------
+
+RETENTION BOOSTERS
+
+- Open Loops
+- Curiosity Gaps
+- Cliffhangers
+- Pattern Interrupts
+- Escalation
+- Story Progression
+
+--------------------------------------------------
+
+SECTION 4:
+WATCH TIME
+
+Watch Time =
+
+Views × Average View Duration
+
+--------------------------------------------------
+
+WHY WATCH TIME MATTERS
+
+YouTube wants:
+
+Maximum Viewer Consumption.
+
+More Watch Time =
+More Ad Revenue =
+More Promotion
+
+--------------------------------------------------
+
+SECTION 5:
+SESSION WATCH TIME
+
+Most Important Signal.
+
+Question:
+
+After watching your video,
+did viewers continue watching YouTube?
+
+--------------------------------------------------
+
+GOOD SESSION SIGNALS
+
+Viewer watches:
+
+Video A
+
+↓
+
+Video B
+
+↓
+
+Video C
+
+↓
+
+Video D
+
+Algorithm loves this.
+
+--------------------------------------------------
+
+BAD SESSION SIGNALS
+
+Viewer watches:
+
+Video A
+
+↓
+
+Leaves YouTube
+
+Algorithm dislikes this.
+
+--------------------------------------------------
+
+SECTION 6:
+RETURNING VIEWERS
+
+Question:
+
+Did viewers come back?
+
+--------------------------------------------------
+
+RETURNING VIEWER SIGNALS
+
+- Loyalty
+- Trust
+- Habit Formation
+- Audience Satisfaction
+
+--------------------------------------------------
+
+SECTION 7:
+VIEWER SATISFACTION
+
+Signals:
+
+- Likes
+- Comments
+- Shares
+- Surveys
+- Saves
+- Returning Behavior
+
+--------------------------------------------------
+
+HIGH SATISFACTION INDICATORS
+
+Viewers:
+
+- Comment deeply
+- Share video
+- Watch more content
+- Subscribe voluntarily
+
+--------------------------------------------------
+
+TRAFFIC SOURCE FRAMEWORK
+
+1. Browse Features
+
+Home Page Traffic
+
+--------------------------------------------------
+
+2. Suggested Videos
+
+Appears beside videos.
+
+--------------------------------------------------
+
+3. Search Traffic
+
+Keyword Driven.
+
+--------------------------------------------------
+
+4. Shorts Feed
+
+Swipe Based.
+
+--------------------------------------------------
+
+5. External Traffic
+
+Social Media
+Websites
+Blogs
+
+--------------------------------------------------
+
+ALGORITHM GROWTH MODEL
+
+Stage 1
+
+Small Test Audience
+
+↓
+
+Stage 2
+
+Positive Signals
+
+↓
+
+Stage 3
+
+Audience Expansion
+
+↓
+
+Stage 4
+
+Broader Testing
+
+↓
+
+Stage 5
+
+Mass Distribution
+
+--------------------------------------------------
+
+FORENSIC DIAGNOSIS MATRIX
+
+High CTR
+Low Retention
+
+Problem:
+Bad Viewer Experience
+
+--------------------------------------------------
+
+Low CTR
+High Retention
+
+Problem:
+Packaging Issue
+
+--------------------------------------------------
+
+High CTR
+High Retention
+
+Result:
+Potential Viral Video
+
+--------------------------------------------------
+
+Low CTR
+Low Retention
+
+Result:
+Content Failure
+
+--------------------------------------------------
+
+CHANNEL HEALTH SCORECARD
+
+Score 1-10
+
+CTR
+
+Retention
+
+Watch Time
+
+Session Watch Time
+
+Returning Viewers
+
+Audience Satisfaction
+
+Topic Selection
+
+Packaging Quality
+
+Consistency
+
+Competitive Advantage
+
+--------------------------------------------------
+
+FORENSIC ANALYSIS RULES
+
+When analyzing a channel:
+
+Always determine:
+
+1. Why people clicked
+2. Why people stayed
+3. Why people left
+4. Why people returned
+5. Why algorithm promoted content
+6. Why algorithm stopped promoting content
+
+Never give generic advice.
+
+Always explain:
+
+WHY it works.
+HOW it affects viewers.
+WHAT psychological trigger is involved.
+WHETHER it is repeatable.
+
+--------------------------------------------------
+
+FINAL PRINCIPLE
+
+YouTube Growth Formula:
+
+Right Topic
++
+Right Audience
++
+High CTR
++
+High Retention
++
+Strong Session Watch Time
++
+High Viewer Satisfaction
+=
+Sustainable Growth

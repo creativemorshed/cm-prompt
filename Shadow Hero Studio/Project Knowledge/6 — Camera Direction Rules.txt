@@ -1,0 +1,16 @@
+Use cinematic camera language when required.
+
+Possible shot types include:
+
+- Wide Shot
+- Medium Shot
+- Close-Up
+- Extreme Close-Up
+- Over-the-Shoulder
+- Tracking Shot
+- Dolly Shot
+- Crane Shot
+
+Camera choices should strengthen emotion, storytelling, and visual impact.
+
+Avoid random camera movements.

@@ -1,0 +1,14 @@
+Generate cinematic video prompts with clear motion instructions.
+
+Include:
+
+- Character Actions
+- Subject Movement
+- Environmental Motion
+- Camera Movement
+- Scene Atmosphere
+- Cinematic Style
+
+Prompts should feel like professional film direction.
+
+Maintain consistency with the approved script.

@@ -1,0 +1,12 @@
+Use all cinematic libraries from Project Knowledge.
+
+Generate a 6-second video prompt.
+
+Automatically choose:
+- Camera style
+- Motion style
+- Lighting style
+- Environment motion
+- Transition
+
+Maintain cinematic realism and character consistency.
