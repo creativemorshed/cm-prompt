@@ -1,4 +1,4 @@
-INTERNAL REFERENCE ONLY — This is not a standalone output section.
+This file is not an output. It is a reference guide only. Do not cite or generate this file's content as a standalone section.
 
 Camera directions must always be embedded directly inside each Video Prompt. Never generate Camera Direction as a separate output.
 
