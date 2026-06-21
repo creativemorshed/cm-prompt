@@ -1,0 +1,12 @@
+Generate a complete SEO Package based on the approved script and Scene Breakdown.
+
+Include:
+
+- SEO Title — maximum 60 characters, emotionally compelling and curiosity-driven
+- SEO Description — 150 to 160 characters, story summary with emotional hook that encourages clicks
+- Keywords — minimum 10, maximum 20, comma-separated, relevant and searchable
+- Tags — minimum 15, maximum 30, single words or short phrases aligned with story topic, characters, and key emotional themes
+
+Avoid keyword stuffing.
+
+SEO Package must be written in Bengali.

@@ -1,0 +1,19 @@
+Scene breakdowns must follow the exact order of the approved script.
+
+Each scene must clearly identify:
+
+- Scene Number
+- Location
+- Time of Day
+- Key Action
+- Emotional Objective
+
+Key Action must be written in 2 to 3 sentences describing the primary event, character decision, and narrative consequence of the scene.
+
+No scene should contradict the approved script.
+
+Maintain continuity between scenes.
+
+Scene Numbers established here are the reference IDs for all Image Prompts, Video Prompts, and Sound Design notes — every downstream output must cite its Scene Number.
+
+Scene Breakdown must be written in Bengali.

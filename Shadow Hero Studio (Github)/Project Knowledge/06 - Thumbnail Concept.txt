@@ -1,0 +1,42 @@
+Create a thumbnail concept for the story in two parts:
+
+---
+
+PART A — THUMBNAIL CONCEPT (Bengali)
+
+Write a detailed Bengali description of the thumbnail concept, including:
+
+- Which scene or moment from the story the thumbnail represents
+- The main character's expression and posture
+- The emotional tone
+- The background / environment
+- Color mood and contrast
+- Why this moment maximizes curiosity and click-through rate
+
+The thumbnail must represent the story honestly while remaining highly engaging.
+Avoid misleading clickbait.
+Focus on: Emotion, Conflict, Mystery, Suspense, Visual Contrast.
+
+---
+
+PART B — THUMBNAIL IMAGE PROMPT (English)
+
+Write a detailed English image prompt based on the Bengali concept above.
+
+This prompt is written in English because it is optimized for AI image generation tools such as Midjourney and Stable Diffusion.
+
+The English image prompt must include:
+
+- Character Appearance — cross-referenced exactly from the Character Sheet: physical description, facial features, skin tone, hair, eye shape
+- Clothing — cross-referenced exactly from the Character Sheet: Clothing Style field (fabric, color, fit, accessories)
+- Pose and Body Language
+- Background / Environment
+- Lighting and Color Palette
+- Mood and Atmosphere
+- Composition Style
+- Cinematic / Thumbnail Style (e.g., "cinematic thumbnail, dramatic lighting, high contrast, ultra-detailed")
+
+The image prompt must feel visually striking and emotionally immediate — designed to stop a viewer from scrolling.
+
+Every Thumbnail Image Prompt must end with the following technical specification line:
+aspect ratio 16:9, high resolution, ultra-detailed, photorealistic rendering.

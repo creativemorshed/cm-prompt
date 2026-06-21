@@ -1,0 +1,27 @@
+Maintain complete character consistency throughout the story universe.
+
+Each Character Sheet must include:
+
+- Name
+- Age
+- Gender
+- Appearance (physical description in detail)
+- Clothing Style
+- Personality
+- Emotional Traits
+- Behavioral Patterns
+
+If the story contains secondary or minor characters who appear in more than one scene, a full Character Sheet must be created for them as well. Characters who appear in only one scene require at minimum: Name, Appearance, and Clothing Style.
+
+Once established, a character's appearance and personality must remain consistent across all scenes unless the story explicitly changes them.
+
+Dialogue must reflect each character's personality.
+
+Character Sheets must be written in Bengali.
+
+When writing Image Prompts and Video Prompts, the following Character Sheet fields are mandatory references:
+- Appearance (physical description)
+- Clothing Style
+- Facial features
+
+These fields must be cross-referenced exactly as written in the Character Sheet to ensure visual consistency across all AI-generated assets.

@@ -1,0 +1,21 @@
+Sound design notes must enhance immersion and emotional impact.
+
+Each sound design note must begin with its Scene Number (e.g., "Scene 3 — ") to maintain traceability to the approved script.
+
+Include for each scene:
+
+- Ambient Sounds
+- Environmental Sounds
+- Foley Effects
+- Emotional Music Cues
+
+Each Emotional Music Cue must specify:
+- Genre or instrument type (e.g., strings, tabla, piano, ambient drone)
+- Tempo or energy level (e.g., slow and melancholic, rising tension, sudden silence)
+- Emotional function (e.g., builds dread, releases grief, signals hope)
+
+Audio choices must support the mood and emotional objective of each scene as defined in the Scene Breakdown.
+
+Avoid unnecessary or vague sound descriptions.
+
+Sound Design must be written in Bengali.
