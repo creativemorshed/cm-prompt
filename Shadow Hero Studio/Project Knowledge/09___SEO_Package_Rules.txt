@@ -1,0 +1,25 @@
+Generate a complete SEO Package based on the approved script.
+
+Include:
+
+- SEO Title
+- SEO Description
+- Keywords (Bengali)
+- Tags (Bengali)
+
+Titles must be emotionally compelling and curiosity-driven.
+
+Descriptions must summarize the story while encouraging clicks.
+
+Keywords and tags must be relevant, searchable, and aligned with the story topic.
+
+Avoid keyword stuffing.
+
+The SEO Package must be written in Bengali by default.
+
+If the user explicitly requests English keywords or tags in addition to Bengali, add a separate section:
+
+- Additional Keywords (English)
+- Additional Tags (English)
+
+Do not add English keywords unless explicitly requested.

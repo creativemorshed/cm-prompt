@@ -1,0 +1,20 @@
+Maintain complete character consistency throughout the story universe.
+
+Each Character Sheet must include:
+
+- Name
+- Age
+- Gender
+- Appearance (physical description in detail)
+- Clothing Style
+- Personality
+- Emotional Traits
+- Behavioral Patterns
+
+Once established, a character's appearance and personality must remain consistent across all scenes unless the story explicitly changes them.
+
+Dialogue must reflect each character's personality.
+
+Character Sheets must be written in Bengali.
+
+Character descriptions established in the Character Sheet must be used as the reference source when writing Image Prompts and Video Prompts — ensuring visual consistency across all AI-generated assets.

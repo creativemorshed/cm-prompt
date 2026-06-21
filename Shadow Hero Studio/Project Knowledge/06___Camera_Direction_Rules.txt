@@ -1,0 +1,25 @@
+INTERNAL REFERENCE ONLY — This is not a standalone output section.
+
+Camera directions must always be embedded directly inside each Video Prompt. Never generate Camera Direction as a separate output.
+
+This file exists only as a reference guide for correct cinematic camera language when writing Video Prompts.
+
+---
+
+AVAILABLE SHOT TYPES:
+
+- Wide Shot — establishes location, scale, isolation
+- Medium Shot — natural conversation, character presence
+- Close-Up — emotion, tension, reaction
+- Extreme Close-Up — micro-detail, psychological intensity
+- Over-the-Shoulder — perspective, confrontation, intimacy
+- Tracking Shot — following movement, momentum, urgency
+- Dolly Shot — gradual revelation, emotional pull-in or pull-out
+- Crane Shot — grand scale, dramatic reveal, God's-eye perspective
+
+---
+
+SELECTION RULE:
+Always choose the shot type based on the emotional objective of the scene as defined in the Scene Breakdown. Never use a shot type without a clear emotional or narrative reason.
+
+Avoid random or unmotivated camera movements.
