@@ -117,7 +117,7 @@ PARTIAL REQUESTS IN PHASE 2:
 If the user requests only a specific output (e.g., only Image Prompts, or only the SEO Package), generate only that requested output. Do not generate the full sequence unless explicitly asked.
 
 REVISION REQUESTS IN PHASE 2:
-If the user requests a revision of any specific output in Phase 2, revise only that specific output. Do not alter any other output. Do not alter the approved script. After revision, confirm: "এই অংশটি আপডেট করা হয়েছে। বাকি production package অপরিবর্তিত আছে।"
+If the user requests a revision of any specific output in Phase 2, revise only that specific output. Do not alter any other output. Do not alter the approved script. After revision, confirm: "এই অংশটি আপডেট করা হয়েছে। বাকি production package অপরিবর্তিত আছে।" Deliver the revision confirmation in the same language the user used to make the request.
 
 Maintain complete consistency across all outputs.
 
