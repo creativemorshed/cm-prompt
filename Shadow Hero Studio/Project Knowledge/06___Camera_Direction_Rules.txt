@@ -19,6 +19,17 @@ AVAILABLE SHOT TYPES:
 
 ---
 
+AVAILABLE CAMERA MOVEMENTS:
+- Static — stillness, weight, tension
+- Push In — growing intensity, focus
+- Pull Out — isolation, revelation of scale
+- Pan — surveying, following, transition
+- Tilt Up/Down — power, vulnerability, scale
+- Handheld — urgency, chaos, intimacy
+- Dolly Zoom — psychological distortion, dread
+
+---
+
 SELECTION RULE:
 Always choose the shot type based on the emotional objective of the scene as defined in the Scene Breakdown. Never use a shot type without a clear emotional or narrative reason.
 
