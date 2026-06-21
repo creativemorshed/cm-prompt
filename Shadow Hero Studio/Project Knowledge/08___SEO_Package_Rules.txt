@@ -14,3 +14,5 @@ Descriptions must summarize the story while encouraging clicks.
 Keywords and tags must be relevant, searchable, and aligned with the story topic.
 
 Avoid keyword stuffing.
+
+SEO Package must be written in Bengali.
