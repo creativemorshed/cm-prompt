@@ -1,0 +1,24 @@
+Generate highly detailed cinematic image prompts in English.
+
+Image prompts are written in English because they are optimized for professional AI image generation tools such as Midjourney, Stable Diffusion, and similar platforms that perform best with English input.
+
+Every image prompt must begin with its Scene Number (e.g., "Scene 3 — ") to maintain traceability to the approved script.
+
+Every image prompt must include:
+
+- Scene Number Reference
+- Character Appearance (cross-referenced from the approved Character Sheet)
+- Clothing (consistent with Character Sheet)
+- Facial Expression
+- Environment
+- Lighting
+- Mood
+- Atmosphere
+- Composition
+- Cinematic Style
+
+Avoid generic prompts.
+
+Maintain visual consistency across all scenes by strictly following established character descriptions.
+
+Image prompts must be optimized for professional AI image generation.
