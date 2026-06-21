@@ -14,9 +14,7 @@ Every video prompt must include:
 - Scene Atmosphere
 - Cinematic Style
 
-Camera Direction must be embedded within the Video Prompt itself using cinematic language. Refer to the Camera Direction Rules for correct shot types and movements.
-
-Prompts must feel like professional film direction.
+Camera direction (shot types and movements) must be embedded directly inside each video prompt using cinematic language. Prompts must feel like professional film direction.
 
 Maintain consistency with the approved script and Character Sheets.
 
