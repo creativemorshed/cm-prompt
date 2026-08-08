@@ -1,0 +1,230 @@
+# MASTER CHARACTER PROMPT v1.0
+
+## Face Reference
+
+If a reference image is provided, use it as the definitive source for the character's face and identity. Preserve the facial features exactly.
+
+If no reference image is provided, generate a unique, realistic, and memorable face that matches the character description. Once generated, keep the same face consistently across all future images.
+
+---
+
+# Character Identity
+
+Name:
+
+Age:
+
+Gender:
+
+Nationality:
+
+Occupation:
+
+Role:
+
+Short Description:
+
+---
+
+# Appearance
+
+Height:
+
+Body Type:
+
+Skin Tone:
+
+Hair Style:
+
+Hair Color:
+
+Eye Color:
+
+Facial Hair (if any):
+
+Signature Features:
+
+---
+
+# Outfit
+
+Top:
+
+Bottom:
+
+Shoes:
+
+Accessories:
+
+Color Palette:
+
+---
+
+# Personality
+
+Core Traits:
+
+Strengths:
+
+Weaknesses:
+
+Motivation:
+
+Default Expression:
+
+Default Pose:
+
+---
+
+# Character Sheet / Model Sheet
+
+Create a professional character reference sheet containing:
+
+## Character Views
+
+- Portrait Close-up
+- Front View
+- 3/4 Front View
+- Left Side View
+- Right Side View
+- Back View
+- Full Body View
+
+## Expression Sheet
+
+- Neutral
+- Happy
+- Sad
+- Angry
+- Worried
+- Surprised
+- Determined
+
+## Pose Sheet
+
+- Standing Pose
+- Walking Pose
+- Sitting Pose
+- Action Pose
+- Relaxed Pose
+
+---
+
+# Art Style
+
+Semi-realistic 2D illustration
+
+Stylized realism
+
+Professional character design sheet
+
+Animation-ready model sheet
+
+Character turnaround sheet
+
+Clean linework
+
+Soft painterly rendering
+
+Realistic proportions
+
+Expressive eyes
+
+Production-quality concept art
+
+---
+
+# Lighting & Camera
+
+Soft studio lighting
+
+Natural highlights
+
+Cinematic shading
+
+Eye-level camera
+
+Orthographic reference views
+
+Full body composition
+
+---
+
+# Background
+
+Pure white background
+
+No environment
+
+No props
+
+Character only
+
+---
+
+# Consistency Rules
+
+Maintain identical:
+
+- Face identity
+- Hairstyle
+- Hair color
+- Skin tone
+- Outfit
+- Body proportions
+- Accessories
+- Color palette
+
+Never redesign the character.
+
+Only change:
+
+- Pose
+- Expression
+- Camera angle
+- Lighting
+- Environment
+
+---
+
+# Negative Prompt
+
+No duplicate character
+
+No extra people
+
+No extra limbs
+
+No bad anatomy
+
+No distorted face
+
+No blurry image
+
+No low quality
+
+No watermark
+
+No logo
+
+No text
+
+---
+
+# Quality
+
+Professional character reference sheet
+
+Production-ready artwork
+
+Animation-ready design
+
+Ultra detailed
+
+Sharp focus
+
+Studio quality
+
+8K
+
+Masterpiece

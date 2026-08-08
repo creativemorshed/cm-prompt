@@ -1,0 +1,28 @@
+Create a Professional Reference Sheet For The Side Characters.
+
+Character Name: 
+
+Visual Style:
+Premium semi-realistic 2D illustration, high-end digital painting, realistic anatomy, clean line art, painterly rendering, soft cinematic shading, grounded realism, AAA concept art quality, animation-ready character sheet, consistent design.
+
+Age:
+Height:
+Gender:
+
+Character Views:
+
+• Portrait Close-up View
+
+• Full Body Front View
+• Full Body 3/4 Front View
+• Full Body Left Side View
+• Full Body Right Side View
+• Full Body Back View
+
+Background:
+Pure white clean studio background.
+
+Lighting:
+Soft studio lighting with subtle shadows.
+
+Negative Prompt:

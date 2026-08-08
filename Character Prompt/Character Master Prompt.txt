@@ -1,0 +1,365 @@
+PROJECT:
+CM STUDIO v1.1
+Universe: Shadow Hero
+
+OBJECTIVE:
+Create a complete production-ready Master Character Bible for the main protagonist. This design will serve as the permanent visual reference for all future episodes. Every future illustration, storyboard, AI image, and AI video must match this character exactly.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ART STYLE
+
+Premium semi-realistic 2D illustration
+
+High-end digital painting
+
+AAA animation concept art
+
+Professional character design sheet
+
+Clean linework
+
+Painterly rendering
+
+Soft cinematic shading
+
+Grounded realism
+
+Modern animated film quality
+
+Consistent proportions
+
+White studio background
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CHARACTER PROFILE
+
+Name:
+Shadow Hero
+
+Age:
+30
+
+Gender:
+Male
+
+Nationality:
+Bangladeshi
+
+Ethnicity:
+South Asian
+
+Height:
+178 cm
+
+Weight:
+74 kg
+
+Body Type:
+Lean athletic
+Fit
+Agile
+Realistic proportions
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FACE
+
+Sharp jawline
+
+Medium warm brown skin
+
+Straight nose
+
+Defined cheekbones
+
+Deep intelligent eyes
+
+Dark brown iris
+
+Thick eyebrows
+
+Short textured black hair
+
+Light stubble beard
+
+Calm expression
+
+Quiet confidence
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PERSONALITY
+
+Highly intelligent
+
+Observant
+
+Strategic thinker
+
+Disciplined
+
+Emotionally controlled
+
+Fearless
+
+Compassionate
+
+Quiet leader
+
+Never arrogant
+
+Never flashy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CLOTHING
+
+Dark charcoal lightweight jacket
+
+Matte black hoodie
+
+Dark grey tactical cargo pants
+
+Black leather tactical boots
+
+Black gloves
+
+Simple analog wristwatch
+
+Minimal utility belt
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EVERYDAY CARRY
+
+Notebook
+
+Pen
+
+Smartphone
+
+Mini flashlight
+
+Wireless earpiece
+
+Backpack (optional)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CHARACTER TURNAROUND
+
+Portrait Close-up
+
+Bust Shot
+
+Front View
+
+3/4 Front
+
+Left Side
+
+Right Side
+
+Back View
+
+Full Body
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FACIAL EXPRESSIONS
+
+Neutral
+
+Thinking
+
+Focused
+
+Determined
+
+Concerned
+
+Confident
+
+Slight Smile
+
+Angry (controlled)
+
+Surprised
+
+Serious
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BODY POSES
+
+Standing
+
+Walking
+
+Running
+
+Observing
+
+Investigating
+
+Taking Notes
+
+Using Smartphone
+
+Looking Around Corner
+
+Kneeling
+
+Looking Up
+
+Looking Down
+
+Crossed Arms
+
+Hands In Pocket
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ACTION POSES
+
+Following Suspect
+
+Searching Room
+
+Checking Evidence
+
+Flashlight Search
+
+Silent Entry
+
+Watching From Rooftop
+
+Looking Through Window
+
+Examining Documents
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DETAIL SHEETS
+
+Face Detail
+
+Hair Detail
+
+Eye Detail
+
+Hands
+
+Boot Design
+
+Jacket Design
+
+Cargo Pants
+
+Utility Belt
+
+Watch
+
+Notebook
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COLOR PALETTE
+
+Charcoal Black
+
+Graphite Gray
+
+Dark Olive
+
+Muted Navy
+
+Warm Brown Skin
+
+Natural Black Hair
+
+Dark Brown Eyes
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LIGHTING REFERENCES
+
+Daylight
+
+Golden Hour
+
+Cloudy Day
+
+Indoor Warm Light
+
+Street Light
+
+Rainy Night
+
+Blue Hour
+
+Backlight
+
+Low Key Lighting
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CHARACTER SCALE
+
+Head Height
+
+Body Proportion
+
+Hand Scale
+
+Foot Scale
+
+Shoulder Width
+
+Silhouette Reference
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DESIGN RULES
+
+No superhero costume
+
+No cape
+
+No glowing eyes
+
+No fantasy armor
+
+No magic
+
+No sci-fi armor
+
+No exaggerated muscles
+
+No comic-book anatomy
+
+No unrealistic hairstyle
+
+No bright colors
+
+No logos
+
+No symbols
+
+The character should look like an ordinary Bangladeshi man whose intelligence, discipline, observation skills, and strategic thinking make him extraordinary.
+
+The design must remain visually identical across every future episode.
+
+Production-ready master character bible.
+
+Ultra consistent character design.
+
+Premium semi-realistic 2D illustration.
+
+=============================================
+
+Negative Prompt:
+
+anime, manga, chibi, cartoon, comic style, cel shading, Pixar, Disney princess style, CGI, 3D render, superhero costume, cape, mask covering entire face, glowing eyes, magic, fantasy, sci-fi armor, cyberpunk, neon colors, exaggerated muscles, bodybuilder, unrealistic anatomy, extra fingers, bad hands, low quality, blurry, watermark, logo, text, weapon focus
